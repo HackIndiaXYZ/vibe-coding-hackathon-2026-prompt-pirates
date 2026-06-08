@@ -510,8 +510,8 @@ See [LICENSE](LICENSE) for the full text.
 
 <br/>
 
-[![GitHub stars](https://img.shields.io/github/stars/HackIndiaXYZ/vibe-coding-hackathon-2026-prompt-pirate?style=social)](https://github.com/your-username/rxlens)
-[![GitHub forks](https://img.shields.io/github/forks/HackIndiaXYZ/vibe-coding-hackathon-2026-prompt-pirate?style=social)](https://github.com/your-username/rxlens/fork)
+[![GitHub stars](https://img.shields.io/github/stars/HackIndiaXYZ/vibe-coding-hackathon-2026-prompt-pirate?style=social)](https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-prompt-pirate)
+[![GitHub forks](https://img.shields.io/github/forks/HackIndiaXYZ/vibe-coding-hackathon-2026-prompt-pirate?style=social)](https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-prompt-pirate/fork)
 
 <br/>
 
