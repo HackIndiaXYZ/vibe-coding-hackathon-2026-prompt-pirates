@@ -468,8 +468,8 @@ The combination of **computer vision** (OCR + OpenCV), **multiple AI models** (G
 
 | Member | Role |
 |---|---|
-| [Tarun Vaidhyanadhan](https://github.com/tarunvaidhyanadhan2025-netizen) | Backend |
-| [Sanjeev V R](https://github.com/sanjeevvr11) | Frontend |
+| [Tarun Vaidhyanadhan](https://github.com/tarunvaidhyanadhan2025-netizen) | FUll Stack Developer |
+| [Sanjeev V](https://github.com/sanjeevvr11) | Full Stack Developer |
 
 
 *Built with ❤️ for [Vibe Coding Hackathon 2026]*
