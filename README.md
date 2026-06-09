@@ -17,7 +17,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Google Gemini](https://img.shields.io/badge/Gemini-Flash%20%2F%20Pro-4285F4?style=flat-square&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![Hackathon](https://img.shields.io/badge/Built%20for-Hackathon-FF6B6B?style=flat-square&logo=rocket&logoColor=white)]()
+[![Hackathon](https://img.shields.io/badge/Built%20for-Hackathon-FF6B6B?style=flat-square&logo=rocket&logoColor=white)](https://hackindia.org/2026/vibe-coding-hackathon-2026)
 
 <br/>
 
@@ -90,22 +90,22 @@ The result is a structured report covering identification, dosage, side effects,
 
 ### Core Capabilities
 
-- [x] 📸 **OCR Prescription Reading** — Tesseract + OpenCV preprocessing for handwritten text
-- [x] 🤖 **AI Medicine Extraction** — Identifies medicines, doses, and frequency from raw OCR text
-- [x] ⛓ **Multi-Provider AI Fallback Chain** — Automatic failover across providers for high availability
+- ✅ 📸 **OCR Prescription Reading** — Tesseract + OpenCV preprocessing for handwritten text
+- ✅ 🤖 **AI Medicine Extraction** — Identifies medicines, doses, and frequency from raw OCR text
+- ✅ ⛓ **Multi-Provider AI Fallback Chain** — Automatic failover across providers for high availability
   - Google Gemini Flash (primary)
   - Google Gemini Pro (secondary)
   - Ollama / Llama 3.1:8B (local, offline)
   - OpenAI GPT-4o (cloud fallback)
-- [x] 💊 **Comprehensive Medicine Profiles** — Usage, mechanism, dosage, brand names, storage
-- [x] 🩺 **Side Effect Analysis** — Common effects vs. rare-but-serious effects, clearly separated
-- [x] 🔗 **Drug Interaction Detection** — Cross-medicine interaction warnings with severity ratings
-- [x] 🥗 **Food Interaction Warnings** — Grapefruit, alcohol, caffeine, supplement conflicts
-- [x] 🌿 **Lifestyle Recommendation Engine** — Categorised into *Avoid*, *Best Practices*, and *Supportive Habits*
-- [x] 📅 **Today's Precautions** — Top 3–6 actionable warnings for the current day, sorted by severity
-- [x] 📚 **Awareness Alerts** — AI-generated notices for clinically significant risks
-- [x] 🕑 **Prescription History** — Browse and revisit past analyses
-- [x] 🎨 **Cyberpunk-Inspired UI** — Dark teal theme, compact medicine cards, responsive design
+- ✅ 💊 **Comprehensive Medicine Profiles** — Usage, mechanism, dosage, brand names, storage
+- ✅ 🩺 **Side Effect Analysis** — Common effects vs. rare-but-serious effects, clearly separated
+- ✅ 🔗 **Drug Interaction Detection** — Cross-medicine interaction warnings with severity ratings
+- ✅ 🥗 **Food Interaction Warnings** — Grapefruit, alcohol, caffeine, supplement conflicts
+- ✅ 🌿 **Lifestyle Recommendation Engine** — Categorised into *Avoid*, *Best Practices*, and *Supportive Habits*
+- ✅ 📅 **Today's Precautions** — Top 3–6 actionable warnings for the current day, sorted by severity
+- ✅ 📚 **Awareness Alerts** — AI-generated notices for clinically significant risks
+- ✅ 🕑 **Prescription History** — Browse and revisit past analyses
+- ✅ 🎨 **Cyberpunk-Inspired UI** — Dark teal theme, compact medicine cards, responsive design
 
 ---
 
@@ -239,8 +239,9 @@ RxLens/
 │   ├── types/
 │   │   ├── medicine.ts                # Core domain types
 │   │   └── api.ts                     # API response types
-│   └── tailwind.config.ts
-│
+│   ├── tailwind.config.ts
+|   ├──.env.local
+│   └──.env.local.example
 ├── screenshots/
 ├── README.md
 └── docker-compose.yml
